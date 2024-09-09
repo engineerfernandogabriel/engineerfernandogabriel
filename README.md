@@ -15,5 +15,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,angular,nodejs,aws,spring,maven,gradle,git,docker,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,angular,nodejs,aws,gcp,spring,maven,gradle,mysql,postgres,mongo" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,grafana,jenkins,linux,windows" />
 </p>
