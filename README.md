@@ -16,8 +16,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,ts,angular,nodejs,aws,gcp,spring,maven,gradle,mysql,postgres,mongo" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,py,js,ts,angular,nodejs,aws,gcp,spring,maven,gradle,mysql,postgres,mongo" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,grafana,jenkins,linux,windows" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitlab,github,docker,kubernetes,jenkins,argocd,datadog,grafana,terraform,linux,windows" />
 </p>
